@@ -1,8 +1,8 @@
-# 📅 `Investigate the Entire Data of a Key Insurer Accounts to Find the Reasons for decreasing Business from the Insurer, make an action Plan and Improve the Business` :  
+## 📅 `Investigate the Entire Data of a Key Insurer Accounts to Find the Reasons for decreasing Business from the Insurer, make an action Plan and Improve the Business` :  
 > My objective here is to **Investigate the Entire Data** to Find the Reasons for decreasing Business from the Insurer for **PPMC (Pre-Policy Medical Check-Up)** Business so that we can make an action Plan, work on it and **Improve the sales** from the Insurer.
 
 
-## 🔰 `Introduction` :
+#### 🔰 `Introduction` :
 >**PPMC :** In the context of insurance, PPMC stands for Pre-Policy Medical Check-Up. This is a set of medical examinations and tests that a prospective policyholder must undergo before an insurance company approves their policy application. Here's a brief overview:
 
 >**What is a Pre-Policy Medical Check-Up (PPMC) ?** <br>
@@ -30,4 +30,4 @@ Typically, policyholders above a certain age (often 40 or 45 years) are required
 
 
 ## ⭐ `Getting started` :
->We will first build the logic and will explain and make the program. And after the we will make a function to repeat this Weekly task, make it simple for the account manager who is not well verse with python and save the time.
+>We will first dive into the data and expolore it. And after the we will try to make the codes simple and summarize it.
