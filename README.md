@@ -1,4 +1,4 @@
-## 📅 `Investigate the Entire Data of a Key Insurer Accounts to Find the Reasons for decreasing Business from the Insurer, make an action Plan and Improve the Business` :  
+## 📅 `Investigate the Entire Data of a Key Insurer Account to Find the Reasons for decreasing Business from the Insurer, make an action Plan and Improve the Business` :  
 > My objective here is to **Investigate the Entire Data** to Find the Reasons for decreasing Business from the Insurer for **PPMC (Pre-Policy Medical Check-Up)** Business so that we can make an action Plan, work on it and **Improve the sales** from the Insurer.
 
 
