@@ -1,5 +1,5 @@
-# 📅 `Automate the Weekly Excel Work to Prepare Conversion and TAT Report` :  
-> My objective here is to **completely Automate the manual Excel Work** to prepare the Weekly Conversion and TAT Report and Overall Status in **PPMC (Pre-Policy Medical Check-Up)** so that we can reduce the **One and Half of manual work to 4 Minutes** on Weekly basis for 25 Account Managers.
+# 📅 `Investigate the Entire Data of a Key Insurer Accounts to Find the Reasons for decreasing Business from the Insurer, make an action Plan and Improve the Business` :  
+> My objective here is to **Investigate the Entire Data** to Find the Reasons for decreasing Business from the Insurer for **PPMC (Pre-Policy Medical Check-Up)** Business so that we can make an action Plan, work on it and **Improve the sales** from the Insurer.
 
 
 ## 🔰 `Introduction` :
