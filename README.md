@@ -19,7 +19,7 @@ Typically, policyholders above a certain age (often 40 or 45 years) are required
 
 
 ## 📊 `The Source Data` :
-> Account manageers extract csv file from CRM in evening to prepare the WIP Report. This file have **185 Columns** and usually **lakhs of rows** based on their insurer volumes. They use the mainly following columns to prepare the next day appointment tracker :
+> Account manageers extract csv file from CRM in evening to prepare the WIP Report. This file have **185 Columns** and usually **lakhs of rows** based on their insurer volumes. We will use the mainly following columns. :
 >- **CorporateName :** Insurer Name
 >- **PatientName :** Name of Insured who will go under the medicals.
 >- **ApplicationId :** Insured Application Number
